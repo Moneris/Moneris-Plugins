@@ -1,1 +1,1 @@
-# Moneris-Plugins
+# Moneris-osCommerce-Plugin
